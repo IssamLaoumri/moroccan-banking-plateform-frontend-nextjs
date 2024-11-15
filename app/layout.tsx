@@ -15,7 +15,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
 	title: "Sahra",
-	description: "Sahra is a modern Moroccan banking plateform for moroccans",
+	description: "Sahra is a modern Moroccan banking plateform for moroccans.",
 	icons: {
 		icon: "./icons/logo.svg",
 	},
